@@ -9,6 +9,6 @@ install "ffmpeg" first:
 <br><br>
 To run:
 <br><br>
-"bash Aqua.sh"
+"bash Pluvia.sh"
 <br><br>
 Thank you!
